@@ -47,12 +47,11 @@ IV options:
 Oral options:
 - linezolid 600 mg BID
 - clindamycin 600 mg PO TID
+
 IV options:
 - vancomycin
 - linezolid 600 mg BID
 - clindamycin 600 mg TID
-
-
 
 
 
