@@ -9,7 +9,7 @@ published: 7/20/2025 12:00
 > [!warning]
 > **The contents of this website should not be taken as professional medical advice.** Please consult with a physician to discuss any medical diagnoses or treatments, and **don't do *anything* solely because you read something on the internet!** <br><br>
 > Additionally, any views and opinions expressed here are entirely my own and should not be interpreted as the views or opinions of any affiliated institutions or organizations. <br><br>
-> You can, and probably should, read more on this [here](legal).
+> You can, and probably should, read more on this [here](legal%20disclaimers.md).
 ## What is this?
 I'm Ashby deButts, a resident physician training in NYC. 
 
