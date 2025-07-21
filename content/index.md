@@ -1,9 +1,9 @@
 ---
 title: Welcome to Quartz
-description: 
-draft: "false"
+description: homepage
+draft: false
 tags: 
 aliases: 
-published:
+published: 7/20/2025 12:00
 ---
 Reboot of ashbydebutts.com incoming!
